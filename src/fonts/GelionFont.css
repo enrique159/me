@@ -1,0 +1,20 @@
+/* Gelio Regular */
+@font-face {
+    font-family:  'Gelion';
+    src:          url('Gelion-Regular.ttf');
+    font-weight:  normal;
+}
+
+/* Gelio Medium */
+@font-face {
+    font-family:  'Gelion';
+    src:          url('Gelion-Medium.ttf');
+    font-weight:  600;
+}
+
+/* Gelio Bold */
+@font-face {
+    font-family:  'Gelion';
+    src:          url('Gelion-Bold.ttf');
+    font-weight:  bold;
+}
