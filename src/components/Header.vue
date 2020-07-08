@@ -16,7 +16,7 @@
         </div> 
         <v-row>
           <v-btn class="boton" text small>Ver Resumen (PDF)</v-btn>
-          <v-btn class="boton" text small>Contactarme</v-btn>
+          <v-btn class="boton" text small href="#contacto" v-smooth-scroll="{ duration: 3000, offset: -50 }">Contactarme</v-btn>
         </v-row>
       </v-col>
       <v-col cols="12" sm="12" md="4">
