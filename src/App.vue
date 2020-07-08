@@ -14,8 +14,4 @@
   color: #000000;
 }
 
-body{
-  background-color: #F8F8F8;
-}
-
 </style>
