@@ -8,10 +8,9 @@ Una vez clonado o descargado el proyecto nos dirigimos a la carpeta raíz y ejec
 npm install
 ```
 
-Una vez instaladas las dependencias, podemos compilar y debbugear el proyecto con el comando
+Una vez instaladas las dependencias, podemos compilar y debuggear el proyecto con el comando
 ```
 npm run serve
 ```
 
-Para más información revisar la documentación de Vue
-See [Vue-js Documentación](https://cli.vuejs.org).
+Para más información revisar la documentación de Vue [Vue-js Documentación](https://cli.vuejs.org).
