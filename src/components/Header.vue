@@ -9,14 +9,13 @@
         <h4 id="subtitulo">Software Developer & Graphic Designer</h4>
         <div class="pr-12 pt-4">
           <p class="texto">Me dedico a crear proyectos web como sitios para empresas, landing pages y
-          tiendas e-commerce utilizando frameworks y estilos modernos, al igual que el 
-          desarrollo de apps para Android y iOS. En los últimos años he tomado a la par
-          la profesión de diseñador gráfico creando marcas,  diseño UI/UX, animación 
-          y mucho más.. </p>
+          tiendas e-commerce, al igual que el desarrollo de apps para Android y iOS utilizando frameworks
+          y estilos modernos. En los últimos años he tomado a la par la profesión de diseñador gráfico 
+          creando marcas,  diseño UI/UX, animación y mucho más.. </p>
         </div> 
-        <v-row>
-          <v-btn class="boton" text small>Ver Resumen (PDF)</v-btn>
-          <v-btn class="boton" text small href="#contacto" v-smooth-scroll="{ duration: 3000, offset: -50 }">Contactarme</v-btn>
+        <v-row class="pl-3">
+          <a class="boton" href="https://bit.ly/enriquemarin" target="_blank">Ver Resumen (PDF)</a>
+          <a class="boton" href="#contacto" v-smooth-scroll="{ duration: 3000, offset: -50 }">Contactarme</a>
         </v-row>
       </v-col>
       <v-col cols="12" sm="12" md="4">
@@ -40,12 +39,34 @@ export default {
 }
 
 .boton{
-  margin-right: 16px;
+  margin-right: 24px;
   margin-top: 24px;
   font-size: 20px !important;
   text-transform: none !important;
   letter-spacing: normal !important;
   font-weight: bold;
+}
+
+a, a:visited {
+  font-weight: 600;
+  font-size: 24px;
+  color: black !important;
+  text-decoration: none;
+  position: relative;
+}
+
+a:after, a:visited:after {
+  content: '';
+  height: 3px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 0%;
+  background: rgb(0, 0, 0);
+  transition: 0.2s;
+}
+a:hover:after, a:visited:hover:after {
+  width: 100%;
 }
 
 .texto{
