@@ -1,5 +1,5 @@
 # My Personal Page 
-Este proyecto es acerca de mi perfil profesional, en el cual incluyo aspectos importantes sobre el trabajo en el que me desenvuelvo, los proyectos que desarrollo y mi resumen de de vida.
+Este proyecto es acerca de mi perfil profesional, en el cual incluyo aspectos importantes sobre el trabajo en el que me desenvuelvo, los proyectos que desarrollo y mi resumen de vida.
 
 
 ## Instalación
