@@ -2,7 +2,7 @@
   <div id="contacto">
     <v-row class="contenedor paddingtop">
       <v-col>
-        <a href="https://bit.ly/enriquemarin" target="_blank">Ver Resumen (482kb)</a> <br> <br>
+        <a href="https://bit.ly/enriquemarinh" target="_blank">Ver Resumen (482kb)</a> <br> <br>
         <a href="tel:6121049341">+52 612 104 9341</a> <br>
         <a href="mailto:enrique.marin.h@hotmail.com?subject=Contact%20From%20Page" target="_blank">enrique.marin.h@hotmail.com</a>
       </v-col>

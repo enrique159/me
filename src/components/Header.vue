@@ -14,7 +14,7 @@
           creando marcas,  diseño UI/UX, animación y mucho más.. </p>
         </div> 
         <v-row class="pl-3">
-          <a class="boton" href="https://bit.ly/enriquemarin" target="_blank">Ver Resumen (PDF)</a>
+          <a class="boton" href="https://bit.ly/enriquemarinh" target="_blank">Ver Resumen (PDF)</a>
           <a class="boton" href="#contacto" v-smooth-scroll="{ duration: 3000, offset: -50 }">Contactarme</a>
         </v-row>
       </v-col>
