@@ -11,9 +11,9 @@
       <v-col>
         <a href="https://github.com/enrique159" target="_blank">Github</a>
         <br>
-        <a href="https://dribbble.com/enriquemarin" target="_blank">Dribble</a>
+        <a href="https://www.behance.net/enriquemarin" target="_blank">Behance</a>
         <br>
-        <a href="https://twitter.com/enriquemarin159" target="_blank">Twitter</a>
+        <a href="https://twitter.com/enriquemarin_mx" target="_blank">Twitter</a>
         <br>
         <a href="https://www.linkedin.com/in/enriquemarin/" target="_blank">LinkedIn</a>
       </v-col>
